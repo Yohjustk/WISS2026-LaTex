@@ -4,7 +4,7 @@ INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/euptex/platex.fmt
-INPUT wiss_template.tex
+INPUT /Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_template.tex
 OUTPUT wiss_template.log
 INPUT ./wiss.cls
 INPUT wiss.cls

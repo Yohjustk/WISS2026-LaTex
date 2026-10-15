@@ -1,11 +1,11 @@
 This is upBibTeX, Version 0.99e-j0.36-u2.02 (TeX Live 2026)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: wiss_template.aux
+The top-level auxiliary file: wiss_Shap3Base.aux
 The style file: jwiss.bst
 Database file #1: sample.bib
 You've used 3 entries,
             2616 wiz_defined-function locations,
-            611 strings with 4526 characters,
+            611 strings with 4528 characters,
 and the built_in function-call counts, 925 in all, are:
 = -- 76
 > -- 21
