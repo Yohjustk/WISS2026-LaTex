@@ -1,0 +1,47 @@
+This is upBibTeX, Version 0.99e-j0.36-u2.02 (utf8.euc) (TeX Live 2026)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: wiss_template.aux
+The style file: jwiss.bst
+Database file #1: sample.bib
+You've used 3 entries,
+            2616 wiz_defined-function locations,
+            611 strings with 4526 characters,
+and the built_in function-call counts, 925 in all, are:
+= -- 76
+> -- 21
+< -- 1
++ -- 9
+- -- 6
+* -- 28
+:= -- 133
+add.period$ -- 10
+call.type$ -- 3
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 52
+empty$ -- 102
+format.name$ -- 9
+if$ -- 219
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 1
+newline$ -- 18
+num.names$ -- 6
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 51
+stack$ -- 0
+substring$ -- 30
+swap$ -- 8
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 0
+while$ -- 8
+width$ -- 4
+write$ -- 33
+is.kanji.str$ -- 23

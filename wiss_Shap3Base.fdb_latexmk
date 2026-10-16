@@ -1,35 +1,31 @@
 # Fdb version 4
-["bibtex wiss_Shap3Base"] 1792083840.51012 "wiss_Shap3Base.aux" "wiss_Shap3Base.bbl" "wiss_Shap3Base" 1792083842.7901 0
+["bibtex wiss_Shap3Base"] 1792124155.88562 "wiss_Shap3Base.aux" "wiss_Shap3Base.bbl" "wiss_Shap3Base" 1792124391.12193 0
   "./jwiss.bst" 1792067418.17785 23402 9f652f36ee4d913f2fdb0f51c7659fbf ""
   "./sample.bib" 1792067471.96048 869 669b59dcda05bd8183a0c98ad4220426 ""
-  "wiss_Shap3Base.aux" 1792083841.078 2892 67fb37fb9ec0e2815672cf0ba2cbefa3 "latex"
+  "wiss_Shap3Base.aux" 1792124389.39487 1985 ef0e66c14ebe08f53dd82d36bacead44 "latex"
   (generated)
   "wiss_Shap3Base.bbl"
   "wiss_Shap3Base.blg"
   (rewritten before read)
-["dvipdf"] 1792083841.47764 "wiss_Shap3Base.dvi" "wiss_Shap3Base.pdf" "wiss_Shap3Base" 1792083842.79201 0
-  "wiss_Shap3Base.dvi" 1792083841.07873 29492 c534d320eb4d98f79146eaad6c4efd73 "latex"
+["dvipdf"] 1792124389.89626 "wiss_Shap3Base.dvi" "wiss_Shap3Base.pdf" "wiss_Shap3Base" 1792124391.12471 0
+  "wiss_Shap3Base.dvi" 1792124389.39593 24040 85a152d8b5c3f5e3932534caaf477468 "latex"
   (generated)
   "wiss_Shap3Base.pdf"
   (rewritten before read)
-["latex"] 1792083840.6897 "/Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex" "wiss_Shap3Base.dvi" "wiss_Shap3Base" 1792083842.7904 0
-  "/Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex" 1792083807.56471 22979 ae5253ca87feb588a5e2079550eb784c ""
+["latex"] 1792124388.9175 "/Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex" "wiss_Shap3Base.dvi" "wiss_Shap3Base" 1792124391.12224 0
+  "/Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex" 1792124388.53253 19880 8dfec2f2bab326b363c915e8772d86cb ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
-  "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1463434352 1196 b274fc006918dea9e5263e2117f4bddb ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1463434352 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/min9.tfm" 1463434352 1196 415df3c165ce605a3c248afbbe3c844b ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1463434352 856 7404843a5f798859944d7973a47821d5 ""
-  "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth9.tfm" 1463434352 856 bed293689e159275e10c27a9927115b7 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1463434352 856 39c171483fe1bb7d0e1368980c0c205b ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin6.tfm" 1463434352 856 e782a1e1d78799594d137f0fef162b39 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin9.tfm" 1463434352 856 b22b8128b44bf8881977f2c74b361f47 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/ascmac/ascgrp.tfm" 1520635638 448 9a1f3a95c3a7e2681aa6eefcf410b7ac ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
-  "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1136768653 1328 5442e22a7072966dbaf88ca900acf3f0 ""
-  "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -46,7 +42,6 @@
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1136768653 1116 25a7bf822c58caf309a702ef79f4afbb ""
-  "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/ascmac/ascmac.sty" 1579124881 590 834565f4a016952bf667fd346b7aee71 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/ascmac/tascmac.sty" 1579124881 11463 e16f2fec3bf4db0d4002a155e4cf4467 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
@@ -68,14 +63,12 @@
   "/usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
   "/usr/local/texlive/2026/texmf-var/web2c/euptex/platex.fmt" 1792063092 3642397 183208ee12752a6fec027c47463c10f9 ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "graph_.eps" 1781114014 449626 c8f518c53c0bfeef6b71cb40a2be7871 ""
   "vision.eps" 1781114014 14839 b86dd794d3d26badcd2eadfa8a7ef1b2 ""
   "wiss.cls" 1781114014 11151 7582a25702fe2753382a719b6392a770 ""
-  "wiss_Shap3Base.aux" 1792083841.078 2892 67fb37fb9ec0e2815672cf0ba2cbefa3 "latex"
-  "wiss_Shap3Base.bbl" 1792083840.6866 494 11c511362fe2e687df3cd175189f5188 "bibtex wiss_Shap3Base"
-  "wiss_Shap3Base.tex" 1792083807.56471 22979 ae5253ca87feb588a5e2079550eb784c ""
+  "wiss_Shap3Base.aux" 1792124389.39487 1985 ef0e66c14ebe08f53dd82d36bacead44 "latex"
+  "wiss_Shap3Base.bbl" 1792124156.1035 244 6b3b1cfd4b8329064a1604a08101513a "bibtex wiss_Shap3Base"
+  "wiss_Shap3Base.tex" 1792124388.53253 19880 8dfec2f2bab326b363c915e8772d86cb ""
   "wissbase11.cls" 1781114014 6696 177ab1728b6fe5cdd6281d6f75f9233e ""
-  "wissfig_.eps" 1781114014 778230 61b14716de421368efc1b413c89a9e21 ""
   (generated)
   "wiss_Shap3Base.aux"
   "wiss_Shap3Base.dvi"
