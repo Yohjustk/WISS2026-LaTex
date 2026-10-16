@@ -102,23 +102,23 @@ ShapeClipなどで様々なディスプレイで画素的要素を独立ユニ�
 前述のような状況を踏まえ，本研究では以下の設計思想に基づき3Dプリントリニアアクチュエータ「Shap3Base」を開発した（図1）．
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.5\columnwidth]{fig1_overview.pdf}
-\caption{Shap3Base の全体像とモジュール構成}
+\includegraphics[width=0.7\columnwidth]{IMG_2700.pdf}
+\caption{Shap3Base の全体像(左：収納時，右：伸長時)}
 \label{fig:overview}
 \end{figure}
-\subsection{3Dプリントによる製造の容易化}
+\subsection{3Dプリント・省部品化による製造の容易化}
 各構造・部品間の結合には，PLA素材の弾性変形を利用した「スナップフィット」構造を多く採用した．
 その結果，部品の多くを一括で3Dプリントでき，追加の結合部品(ねじ等)用いず組み立て可能になり，部品発注による開発遅延を排除し，試作を加速する．
 また，より強固な結合のために，熱圧入インサートナット用のねじ留め穴も設計した．
 
 \subsection{2段並列送りねじ機構による全長短縮}
 従来多用されている1段送りねじ機構\cite{shapeclip2015}\cite{interaction2023_2p74}\cite{shapeShift2018}は収納時の全長が伸長時の半分以上となり，装置の奥行きが大型化する課題があった．
-本研究では，独自のネジピッチ・リード角度・ハメ合い公差を検証して決定した3Dプリント製送りねじを採用し，2つの送りねじ機構を内部に並列統合する「2段伸縮機構」を開発した（図2）．
+本研究では，独自に寸法を検証し決定した3Dプリント製送りねじを採用し，2つの送りねじ機構を内部に並列統合する「2段伸縮機構」を開発した（図2）．
 これにより，伸長時の全長が約200mm以上の場合に収納時の全長を伸長時の半分以下に収めることに成功した．
-また伸縮部の外径を細くしたい場合等では，簡易な「1段伸縮機構」も選択可能である．
+なお簡易な「1段伸縮機構」も選択可能である．
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.5\columnwidth]{fig2_mechanism.pdf}
+\includegraphics[width=0.7\columnwidth]{IMG-2026-10-16191344.png.pdf}
 \caption{2段並列送りねじ機構の動作}
 \label{fig:mechanism}
 \end{figure}
@@ -140,14 +140,15 @@ Fusion360（CAD）でのカスタマイズとBambulab製3Dプリンタ（H2S, P1
 \begin{enumerate}
     \item \textbf{伸縮段数の変更}: 伸縮距離を重視する2段機構と，断面外形を細くして高密度配置を優先する1段機構の切り替え．
     \item \textbf{パラメータ可変}: 用途に応じた全長，伸縮距離，伸縮部外径の変更．
-    \item \textbf{先端アダプタの換装}: 先端に小型ディスプレイや各種センサ，物理UIパーツを結合する共通スナップフィット形状の付加．
+    \item \textbf{先端アダプタの換装}: 先端に小型ディスプレイ等の機能要素を結合する共通スナップフィット形状の付加．
 \end{enumerate}
 \begin{figure}[t]
 \centering
-\includegraphics[width=0.5\columnwidth]{fig3_customize.pdf}
+\includegraphics[width=0.7\columnwidth]{IMG-2026-10-16193149.png.pdf}
 \caption{カスタマイズ例}
 \label{fig:customize}
 \end{figure}
+
 
 
 
@@ -175,7 +176,10 @@ ToFセンサ（VL53L1X）は数mm精度で測距できる一方，個体差に�
 市販モータとToFセンサを非破壊で着脱でき，高い再利用性と安全性を確保した．
 今後は，性能の定量計測とキャリブレーション手法の確立を進め，視覚提示素子や他センサを統合した新たなメディア装置の応用開発を推進する．
 
-
+\section*{謝辞}
+本研究は東京電機大学総合研究所研究（2025-2026）の助成を受けたものである．
+東京電機大学　竜田藤男先生には電源系統の統合出力に関する示唆をいただいた．
+ここに謝意を示す．
 
 
 
