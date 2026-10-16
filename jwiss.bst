@@ -1326,7 +1326,7 @@ FUNCTION {presort}
 ITERATE {presort}
 
 
-SORT
+% SORT  % 論文中の参照順（citation order）で番号付けするためソートを無効化
 
 
 

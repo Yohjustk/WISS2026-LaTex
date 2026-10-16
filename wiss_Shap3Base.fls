@@ -34,6 +34,8 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/nidanfloat/nidanfloat.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/nidanfloat/nidanfloat.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
@@ -50,8 +52,8 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/dvipsnam.def
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx
-INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/sttools/flushend.sty
-INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/sttools/flushend.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/preprint/balance.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/preprint/balance.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
@@ -89,12 +91,28 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT ./fig1_overview.pdf
+INPUT ./fig1_overview.pdf
+INPUT ./fig1_overview.pdf
+INPUT extractbb -B cropbox -O fig1_overview.pdf
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth9.tfm
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
 OUTPUT wiss_Shap3Base.dvi
+INPUT ./fig2_mechanism.pdf
+INPUT ./fig2_mechanism.pdf
+INPUT ./fig2_mechanism.pdf
+INPUT extractbb -B cropbox -O fig2_mechanism.pdf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT ./fig3_customize.pdf
+INPUT ./fig3_customize.pdf
+INPUT ./fig3_customize.pdf
+INPUT extractbb -B cropbox -O fig3_customize.pdf
 INPUT ./wiss_Shap3Base.bbl
 INPUT ./wiss_Shap3Base.bbl
 INPUT wiss_Shap3Base.bbl
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT ./vision.eps
 INPUT ./vision.eps
 INPUT ./vision.eps

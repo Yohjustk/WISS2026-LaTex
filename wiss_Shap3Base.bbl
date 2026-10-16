@@ -1,8 +1,56 @@
 \begin{thebibliography}{1}
 
-\bibitem{rekimoto2000}
-暦本 純一.
-\newblock まえがき：WISS2000について.
-\newblock  インタラクティブシステムとソフトウェアVIII, pp. i--ii. 近代科学社, 2000.
+\bibitem{inform2013}
+S.~Follmer, D.~Leithinger, A.~Olwal, A.~Hogge, and H.~Ishii.
+\newblock inFORM: dynamic physical affordances and constraints through shape
+  and object actuation.
+\newblock In \emph{Proceedings of the 26th Annual ACM Symposium on User
+  Interface Software and Technology}, pp. 417--426. Association for Computing
+  Machinery, 2013.
+
+\bibitem{shapedisplays_spatial2015}
+D.~Leithinger, S.~Follmer, A.~Olwal, and H.~Ishii.
+\newblock Shape Displays: Spatial Interaction with Dynamic Physical Form.
+\newblock \emph{IEEE Computer Graphics and Applications}, 35(5):5--11, 2015.
+
+\bibitem{pinarray_architectures2023}
+T.~Bhatnagar, A.~Higgins, N.~Marquardt, M.~Miodownik, and C.~Holloway.
+\newblock Analysis of Product Architectures of Pin Array Technologies for
+  Tactile Displays.
+\newblock \emph{Proc. ACM Hum.-Comput. Interact.}, 7(ISS), 2023.
+
+\bibitem{elevate2021}
+S.~Je, H.~Lim, K.~Moon, S.-Y. Teng, J.~Brooks, P.~Lopes, and A.~Bianchi.
+\newblock Elevate: A Walkable Pin-Array for Large Shape-Changing Terrains.
+\newblock In \emph{Proceedings of the 2021 CHI Conference on Human Factors in
+  Computing Systems}. Association for Computing Machinery, 2021.
+
+\bibitem{wiss2025_c20}
+巻田 直樹, 門本 淳一郎, 入江 英嗣.
+\newblock 液晶画面を備えたピンアレイ型形状提示ディスプレイ.
+\newblock
+  第33回インタラクティブシステムとソフトウェアに関するワークショップ (WISS
+  2025), 2025.
+
+\bibitem{shapeclip2015}
+J.~Hardy, C.~Weichel, F.~Taher, J.~Vidler, and J.~Alexander.
+\newblock ShapeClip: Towards Rapid Prototyping with Shape-Changing Displays for
+  Designers.
+\newblock In \emph{Proceedings of the 33rd Annual ACM Conference on Human
+  Factors in Computing Systems}, pp. 19--28. Association for Computing
+  Machinery, 2015.
+
+\bibitem{commutiles2024}
+M.~Goto, I.~Sugiyama, K.~Higuchi, T.~Goto, J.~Kadomoto, H.~Irie, and S.~Sakai.
+\newblock CommuTiles: Shape-Changeable Modular Computer System Using Proximity
+  Wireless Communication.
+\newblock In \emph{Extended Abstracts of the CHI Conference on Human Factors in
+  Computing Systems}. Association for Computing Machinery, 2024.
+
+\bibitem{interaction2023_2p74}
+杉本 隆平, 深谷 航平, 坂本 寛樹, 佐藤 俊樹.
+\newblock 群体運用可能な自己完結式ピン型デバイスの提案.
+\newblock  インタラクション2023論文集, pp. 788--790. 一般社団法人 情報処理学会,
+  2023.
 
 \end{thebibliography}
