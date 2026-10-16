@@ -4,7 +4,7 @@ INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/euptex/platex.fmt
-INPUT /Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex
+INPUT wiss_Shap3Base.tex
 OUTPUT wiss_Shap3Base.log
 INPUT ./wiss.cls
 INPUT wiss.cls
@@ -98,11 +98,11 @@ INPUT extractbb -B cropbox -O fig1_overview.pdf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth9.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
-OUTPUT wiss_Shap3Base.dvi
 INPUT ./fig2_mechanism.pdf
 INPUT ./fig2_mechanism.pdf
 INPUT ./fig2_mechanism.pdf
 INPUT extractbb -B cropbox -O fig2_mechanism.pdf
+OUTPUT wiss_Shap3Base.dvi
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT ./fig3_customize.pdf

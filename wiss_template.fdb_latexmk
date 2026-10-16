@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex wiss_template"] 1792093788.50421 "wiss_template.aux" "wiss_template.bbl" "wiss_template" 1792093790.99686 0
-  "./jwiss.bst" 1792067418.17785 23402 9f652f36ee4d913f2fdb0f51c7659fbf ""
+["bibtex wiss_template"] 1792140358.3857 "wiss_template.aux" "wiss_template.bbl" "wiss_template" 1792140360.73538 0
+  "./jwiss.bst" 1792132588.10361 23497 91b867a6e7626d2f1a2e2245ab4a56a9 ""
   "./sample.bib" 1792067471.96048 869 669b59dcda05bd8183a0c98ad4220426 ""
-  "wiss_template.aux" 1792093789.19292 2783 8a3c64f25a5b0380193d6991ba482ecc "latex"
+  "wiss_template.aux" 1792140359.06716 2783 b9a21ecab4f29f3ed2479b81078bc1f1 "latex"
   (generated)
   "wiss_template.bbl"
   "wiss_template.blg"
   (rewritten before read)
-["dvipdf"] 1792093789.62723 "wiss_template.dvi" "wiss_template.pdf" "wiss_template" 1792093790.99856 0
-  "wiss_template.dvi" 1792093789.19437 30832 949daba6aca5c8ac9bd12b36936e7971 "latex"
+["dvipdf"] 1792140359.51455 "wiss_template.dvi" "wiss_template.pdf" "wiss_template" 1792140360.73791 0
+  "wiss_template.dvi" 1792140359.06833 30832 d679543c212a140daa86f77740dd7ae9 "latex"
   (generated)
   "wiss_template.pdf"
   (rewritten before read)
-["latex"] 1792093788.72932 "wiss_template.tex" "wiss_template.dvi" "wiss_template" 1792093790.99702 0
+["latex"] 1792140358.56922 "wiss_template.tex" "wiss_template.dvi" "wiss_template" 1792140360.73574 0
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1463434352 1196 b274fc006918dea9e5263e2117f4bddb ""
@@ -70,8 +70,8 @@
   "graph_.eps" 1781114014 449626 c8f518c53c0bfeef6b71cb40a2be7871 ""
   "vision.eps" 1781114014 14839 b86dd794d3d26badcd2eadfa8a7ef1b2 ""
   "wiss.cls" 1781114014 11151 7582a25702fe2753382a719b6392a770 ""
-  "wiss_template.aux" 1792093789.19292 2783 8a3c64f25a5b0380193d6991ba482ecc "latex"
-  "wiss_template.bbl" 1792093788.72386 498 05ca92f996ac7d1756a1dfcade817f1f "bibtex wiss_template"
+  "wiss_template.aux" 1792140359.06716 2783 b9a21ecab4f29f3ed2479b81078bc1f1 "latex"
+  "wiss_template.bbl" 1792140358.56559 498 26c1ccce5edb776f35e0acddfe9af4ce "bibtex wiss_template"
   "wiss_template.tex" 1792084599.59538 23511 6d9c53c265797cbe325e693fc88f6142 ""
   "wissbase11.cls" 1781114014 6696 177ab1728b6fe5cdd6281d6f75f9233e ""
   "wissfig_.eps" 1781114014 778230 61b14716de421368efc1b413c89a9e21 ""

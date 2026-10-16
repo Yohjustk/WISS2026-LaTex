@@ -3,45 +3,45 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: wiss_Shap3Base.aux
 The style file: jwiss.bst
 Database file #1: wiss_Shap3Base.bib
-You've used 8 entries,
+You've used 10 entries,
             2616 wiz_defined-function locations,
-            642 strings with 6275 characters,
-and the built_in function-call counts, 3990 in all, are:
-= -- 331
-> -- 216
-< -- 3
-+ -- 88
-- -- 80
-* -- 244
-:= -- 586
-add.period$ -- 29
-call.type$ -- 8
-change.case$ -- 56
+            652 strings with 6528 characters,
+and the built_in function-call counts, 4932 in all, are:
+= -- 412
+> -- 260
+< -- 4
++ -- 106
+- -- 96
+* -- 296
+:= -- 717
+add.period$ -- 36
+call.type$ -- 10
+change.case$ -- 68
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 186
-empty$ -- 303
-format.name$ -- 120
-if$ -- 899
+cite$ -- 10
+duplicate$ -- 229
+empty$ -- 380
+format.name$ -- 144
+if$ -- 1118
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 8
-newline$ -- 43
-num.names$ -- 16
-pop$ -- 104
+int.to.str$ -- 10
+missing$ -- 9
+newline$ -- 53
+num.names$ -- 20
+pop$ -- 132
 preamble$ -- 1
-purify$ -- 56
+purify$ -- 68
 quote$ -- 0
-skip$ -- 158
+skip$ -- 200
 stack$ -- 0
-substring$ -- 132
-swap$ -- 37
-text.length$ -- 3
+substring$ -- 170
+swap$ -- 49
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 32
+type$ -- 40
 warning$ -- 0
-while$ -- 24
-width$ -- 9
-write$ -- 92
-is.kanji.str$ -- 110
+while$ -- 30
+width$ -- 12
+write$ -- 114
+is.kanji.str$ -- 134
