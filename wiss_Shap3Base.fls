@@ -4,7 +4,7 @@ INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/euptex/platex.fmt
-INPUT /Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex
+INPUT wiss_Shap3Base.tex
 OUTPUT wiss_Shap3Base.log
 INPUT ./wiss.cls
 INPUT wiss.cls
@@ -91,10 +91,10 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT ./IMG_2700.pdf
-INPUT ./IMG_2700.pdf
-INPUT ./IMG_2700.pdf
-INPUT extractbb -B cropbox -O IMG_2700.pdf
+INPUT ./IMG_2709.pdf
+INPUT ./IMG_2709.pdf
+INPUT ./IMG_2709.pdf
+INPUT extractbb -B cropbox -O IMG_2709.pdf
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth9.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm

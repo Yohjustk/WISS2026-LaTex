@@ -1,19 +1,18 @@
 # Fdb version 4
-["bibtex wiss_Shap3Base"] 1792148439.27184 "wiss_Shap3Base.aux" "wiss_Shap3Base.bbl" "wiss_Shap3Base" 1792148964.51737 0
+["bibtex wiss_Shap3Base"] 1792153459.59413 "wiss_Shap3Base.aux" "wiss_Shap3Base.bbl" "wiss_Shap3Base" 1792153462.50817 0
   "./jwiss.bst" 1792132588.10361 23497 91b867a6e7626d2f1a2e2245ab4a56a9 ""
   "./wiss_Shap3Base.bib" 1792137053.53392 5088 eb63fe4c5ff33ce4b8ec12f094858190 ""
-  "wiss_Shap3Base.aux" 1792148962.73934 3426 cb231680f4d9b2358b443698fb537a6c "latex"
+  "wiss_Shap3Base.aux" 1792153460.98752 3018 61fbcfd830464f83851ef8a3d1eea240 "latex"
   (generated)
   "wiss_Shap3Base.bbl"
   "wiss_Shap3Base.blg"
   (rewritten before read)
-["dvipdf"] 1792148963.2566 "wiss_Shap3Base.dvi" "wiss_Shap3Base.pdf" "wiss_Shap3Base" 1792148964.51926 0
-  "wiss_Shap3Base.dvi" 1792148962.74056 23548 fc2eaf0a70b5929cb388ab6b95fc6265 "latex"
+["dvipdf"] 1792153461.41862 "wiss_Shap3Base.dvi" "wiss_Shap3Base.pdf" "wiss_Shap3Base" 1792153462.50943 0
+  "wiss_Shap3Base.dvi" 1792153460.98849 23196 1ff2f5ae5ef69e5b2f4979b95c8da0be "latex"
   (generated)
   "wiss_Shap3Base.pdf"
   (rewritten before read)
-["latex"] 1792148961.15152 "/Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex" "wiss_Shap3Base.dvi" "wiss_Shap3Base" 1792148964.5176 0
-  "/Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex" 1792148960.71075 17914 49e1b8d35eaf4ea85fd6c5d3f04e9d03 ""
+["latex"] 1792153459.81105 "wiss_Shap3Base.tex" "wiss_Shap3Base.dvi" "wiss_Shap3Base" 1792153462.50831 0
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1463434352 1196 b274fc006918dea9e5263e2117f4bddb ""
@@ -70,12 +69,12 @@
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
   "IMG-2026-10-16191344.png.pdf" 1792148380.29485 290357 42a2b471dab5c92463e7e60a55b81de0 ""
   "IMG-2026-10-16193149.png.pdf" 1792148386.2815 214061 9e2141f1f185486ea1b5ab0890adc32d ""
-  "IMG_2700.pdf" 1792142676.90258 698206 2b4b9bf3fb3b26131e2805d2b4dad644 ""
+  "IMG_2709.pdf" 1792153395.44109 736593 bd76aedb0deb3c2f71aae5ead95015b8 ""
   "vision.eps" 1781114014 14839 b86dd794d3d26badcd2eadfa8a7ef1b2 ""
   "wiss.cls" 1781114014 11151 7582a25702fe2753382a719b6392a770 ""
-  "wiss_Shap3Base.aux" 1792148962.73934 3426 cb231680f4d9b2358b443698fb537a6c "latex"
-  "wiss_Shap3Base.bbl" 1792148439.53239 2980 c33ee3fec8bdd9f71475c562e800b6b6 "bibtex wiss_Shap3Base"
-  "wiss_Shap3Base.tex" 1792148960.71075 17914 49e1b8d35eaf4ea85fd6c5d3f04e9d03 ""
+  "wiss_Shap3Base.aux" 1792153460.98752 3018 61fbcfd830464f83851ef8a3d1eea240 "latex"
+  "wiss_Shap3Base.bbl" 1792153459.80705 2980 c33ee3fec8bdd9f71475c562e800b6b6 "bibtex wiss_Shap3Base"
+  "wiss_Shap3Base.tex" 1792152996.08582 18675 f4f1320b4f6db15f6c987567659d988a ""
   "wissbase11.cls" 1781114014 6696 177ab1728b6fe5cdd6281d6f75f9233e ""
   (generated)
   "wiss_Shap3Base.aux"

@@ -1,9 +1,9 @@
-This is e-upTeX, Version 3.141592653-p4.1.2-u2.02-251130-2.6 (utf8.euc) (TeX Live 2026) (preloaded format=platex 2026.10.15)  16 OCT 2026 20:09
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.02-251130-2.6 (utf8.euc) (TeX Live 2026) (preloaded format=platex 2026.10.15)  16 OCT 2026 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex
-(/Users/kurusu/Desktop/IwaiLab/WISS2026/LaTeX/wiss_Shap3Base.tex
+**wiss_Shap3Base.tex
+(./wiss_Shap3Base.tex
 pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -64,7 +64,8 @@ File: dvipdfmx.def 2025/09/29 v5.0n Graphics/color driver for dvipdfmx
 \Gin@req@height=\dimen170
 \Gin@req@width=\dimen171
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/nidanfloat/nidanfloat.sty
-Package: nidanfloat 2018/07/28 v2.9 Put double-floats at top/bottom within twocolumn mode
+Package: nidanfloat 2018/07/28 v2.9 Put double-floats at top/bottom within twoc
+olumn mode
 \c@dblbotnumber=\count283
 \@dblbotroom=\dimen172
 \@dblbotnum=\count284
@@ -159,7 +160,8 @@ Package color Info: Driver file: dvips.def on input line 149.
 File: dvips.def 2025/01/21 v3.2a Graphics/color driver for dvips
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-) (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/local/texlive/2026/texmf-dist/tex/latex/preprint/balance.sty
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/
+local/texlive/2026/texmf-dist/tex/latex/preprint/balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen185
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/url/url.sty
@@ -227,8 +229,8 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.5> not available
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
 (Font)              size <10.95> substituted on input line 88.
 
-File: IMG_2700.pdf Graphic file (type pdf)
-<IMG_2700.pdf>
+File: IMG_2709.pdf Graphic file (type pdf)
+<IMG_2709.pdf>
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
@@ -259,13 +261,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: IMG-2026-10-16193149.png.pdf Graphic file (type pdf)
 <IMG-2026-10-16193149.png.pdf>
 
-ignored: Infinite glue shrinkage found in box being split
-ignored: Infinite glue shrinkage found in box being split [2]
-Overfull \hbox (5.2971pt too wide) in paragraph at lines 180--183
-[]\JY1/mc/m/n/10.5 本研究は東京電機大学総合研究所研究 （\OT1/cmr/m/n/10.95 2025-2026\JY1/mc/m/n/10.5 ）
+Overfull \hbox (2.96353pt too wide) in paragraph at lines 153--155
+[]\JY1/mc/m/n/10.5 本アクチ ュ エ ータは汎用的な入出力 （ モ ータ ： \OT1/cmr/m
+/n/10.95 PWM
  []
 
-(./wiss_Shap3Base.bbl
+
+Overfull \hbox (5.2971pt too wide) in paragraph at lines 179--182
+[]\JY1/mc/m/n/10.5 本研究は東京電機大学総合研究所研究 （\OT1/cmr/m/n/10.95 2025
+-2026\JY1/mc/m/n/10.5 ）
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split
+ignored: Infinite glue shrinkage found i
+n box being split [2] (./wiss_Shap3Base.bbl
 LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
 (Font)              No change on input line 8.
 LaTeX Font Info:    Kanji font shape `JY1/gt/m/it' undefined
@@ -291,7 +301,7 @@ File: vision.eps Graphic file (type eps)
 <vision.eps>
 \FUTUREHT=\skip51
 
-Overfull \hbox (24.19879pt too wide) in paragraph at lines 285--290
+Overfull \hbox (24.19879pt too wide) in paragraph at lines 291--296
 []|  []
  []
 
@@ -304,12 +314,12 @@ Overfull \vbox (10.0pt too high) has occurred while \output is active []
 
 (./wiss_Shap3Base.aux) ) 
 Here is how much of TeX's memory you used:
- 1645 strings out of 468171
- 28631 string characters out of 5434471
- 451231 words of memory out of 5000000
+ 1644 strings out of 468171
+ 28498 string characters out of 5434471
+ 451262 words of memory out of 5000000
  30543 multiletter control sequences out of 15000+600000
  642280 words of font info for 96 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 57i,8n,65p,519b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,65p,309b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on wiss_Shap3Base.dvi (3 pages, 23548 bytes).
+Output written on wiss_Shap3Base.dvi (3 pages, 23196 bytes).
